@@ -24,6 +24,7 @@ It would be interesting to find out if there was some sort of heuristic that mig
 or if it was intended to be solved with a computer or by a mathematical proof of some sort.
 
 It was, in any case, probably my first little victory in programming - I'd built a program that actually worked, and solved a problem I wasn't even sure could be solved.
+I probably did a little jump when the solution popped out on the screen.
 
 ## Building the Code
 
