@@ -24,6 +24,7 @@ It would be interesting to find out if there was some sort of heuristic that mig
 or if it was intended to be solved with a computer or by a mathematical proof of some sort.
 
 It was, in any case, probably my first little victory in programming - I'd built a program that actually worked, and solved a problem I wasn't even sure could be solved.
+I probably did a little jump when the solution popped out on the screen.
 
 ## Building the Code
 
@@ -32,6 +33,11 @@ It was, in any case, probably my first little victory in programming - I'd built
 Then run the output executable from a terminal.
 
 e.g. `.\a.exe`
+
+## 2005 to 2020
+
+I think my current code looks pretty similar to my 2005 code since the gap skips my crazy years in complex C++ land. I've returned to this kind of simple reasoning over data.
+One obvious change is that in this code it looked like I'd just learned about *linked lists*. There's no need for that - these days I'd just pop the pieces into an array of pieces, possibly just with an extra boolean flag to avoid messing around with full and empty lists.
 
 ## Other Solutions
 
