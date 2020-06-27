@@ -34,6 +34,11 @@ Then run the output executable from a terminal.
 
 e.g. `.\a.exe`
 
+## 2005 to 2020
+
+I think my current code looks pretty similar to my 2005 code since the gap skips my crazy years in complex C++ land. I've returned to this kind of simple reasoning over data.
+One obvious change is that in this code it looked like I'd just learned about *linked lists*. There's no need for that - these days I'd just pop the pieces into an array of pieces, possibly just with an extra boolean flag to avoid messing around with full and empty lists.
+
 ## Other Solutions
 
 * https://github.com/mattrosstaylor/last_piece_puzzle
